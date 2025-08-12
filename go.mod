@@ -1,5 +1,5 @@
 module github.com/yuk7/wsllib-go
 
-go 1.16
+go 1.23.0
 
-require golang.org/x/sys v0.30.0
+require golang.org/x/sys v0.35.0
